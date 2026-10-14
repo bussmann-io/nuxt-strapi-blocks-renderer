@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="320" src="https://raw.githubusercontent.com/freb97/nuxt-strapi-blocks-renderer/refs/heads/main/.github/public/nuxt-strapi-blocks-renderer.png">
+  <img width="320" src="https://raw.githubusercontent.com/bussmann-io/nuxt-strapi-blocks-renderer/refs/heads/main/.github/public/nuxt-strapi-blocks-renderer.png">
 </p>
 
 # Nuxt Strapi Blocks Renderer
@@ -13,8 +13,8 @@ Fully customizable module for Nuxt 3 & 4 to render the "Blocks" rich text editor
 
 The implementation is based on Strapi's [Blocks React Renderer](https://github.com/strapi/blocks-react-renderer/).
 
-- ✨ [Release notes](https://github.com/freb97/nuxt-strapi-blocks-renderer/releases)
-- 🏀 [Online stackblitz playground](https://stackblitz.com/github/freb97/nuxt-strapi-blocks-renderer?file=playground%2Fcustom%2Fpages%2Findex.vue)
+- ✨ [Release notes](https://github.com/bussmann-io/nuxt-strapi-blocks-renderer/releases)
+- 🏀 [Online stackblitz playground](https://stackblitz.com/github/bussmann-io/nuxt-strapi-blocks-renderer?file=playground%2Fcustom%2Fpages%2Findex.vue)
 
 ## Installation
 
@@ -413,8 +413,8 @@ Releases are automated with [uppt](https://github.com/danielroe/uppt), based on
    workflow.
 3. The module is built, packed and staged on npm. It goes live once the staged version is approved on npmjs.com.
 
-[github-actions-src]: https://github.com/freb97/nuxt-strapi-blocks-renderer/actions/workflows/test.yml/badge.svg
-[github-actions-href]: https://github.com/freb97/nuxt-strapi-blocks-renderer/actions
+[github-actions-src]: https://github.com/bussmann-io/nuxt-strapi-blocks-renderer/actions/workflows/test.yml/badge.svg
+[github-actions-href]: https://github.com/bussmann-io/nuxt-strapi-blocks-renderer/actions
 
 [npm-version-src]: https://img.shields.io/npm/v/nuxt-strapi-blocks-renderer/latest.svg?style=flat&colorA=18181B&colorB=31C553
 [npm-version-href]: https://npmjs.com/package/nuxt-strapi-blocks-renderer
@@ -422,5 +422,5 @@ Releases are automated with [uppt](https://github.com/danielroe/uppt), based on
 [npm-last-update-src]: https://img.shields.io/npm/last-update/nuxt-strapi-blocks-renderer.svg?style=flat&colorA=18181B&colorB=31C553
 [npm-last-update-href]: https://npmjs.com/package/nuxt-strapi-blocks-renderer
 
-[license-src]: https://img.shields.io/github/license/freb97/nuxt-strapi-blocks-renderer.svg?style=flat&colorA=18181B&colorB=31C553
-[license-href]: https://github.com/freb97/nuxt-strapi-blocks-renderer/blob/main/LICENSE
+[license-src]: https://img.shields.io/github/license/bussmann-io/nuxt-strapi-blocks-renderer.svg?style=flat&colorA=18181B&colorB=31C553
+[license-href]: https://github.com/bussmann-io/nuxt-strapi-blocks-renderer/blob/main/LICENSE

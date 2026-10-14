@@ -1,6 +1,6 @@
 <template>
     <NuxtLink
-        to="https://github.com/freb97/nuxt-strapi-blocks-renderer"
+        to="https://github.com/bussmann-io/nuxt-strapi-blocks-renderer"
         class="w-full flex items-center justify-between mb-12 lg:mb-24"
     >
         <img

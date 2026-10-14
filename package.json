@@ -6,7 +6,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/freb97/nuxt-strapi-blocks-renderer.git"
+        "url": "git+https://github.com/bussmann-io/nuxt-strapi-blocks-renderer.git"
     },
     "author": {
         "name": "Frederik Bußmann",
